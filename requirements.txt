@@ -1,0 +1,3 @@
+trimesh
+torch; extra == "generative"
+shap-e; extra == "generative"
